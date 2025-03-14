@@ -1,19 +1,9 @@
-Subject: Exploring Collaborative Opportunities with 180 Degrees Consulting SRMIST KTR
+Subject: Your subject line here for {client_name}
 
 Dear {client_name},
 
-I hope this email finds you well.
-
-My name is Arvind Pandey, and I work in Client Relations at 180 Degrees Consulting, SRMIST Kattankulathur, Chennai. At 180 Degrees Consulting, our mission is to revolutionize the social impact landscape by delivering tailored, innovative solutions for organizations like yours. We work with non-profits social enterprises, and other impact-focused bodies to tackle obstacles and reach meaningful long-term growth.
-
+Your email content is here.
 {description}
 
-We offer advice on strategy, finance, sales and marketing, operations, logistics, and human resources. We develop practical, sustainable answers to tackle your organization's specific problems. Our solutions are made to fit your needs, whether you want to reach more people, make donor management systems better, or creating effective volunteer acquisition strategies. We break down what you need into clearly defined buckets, allowing us to address each aspect separately.
-
-To explore this collaboration, we would be delighted to arrange a meeting with our Leadership Team. This will let us hear about your problems in depth and show you how we can help bring {client_name}'s success. Thank you for considering this opportunity. We are excited about the idea of working with you and can't wait to hear back from you.
-
-Warm regards,
-Arvind Pandey
-Client Relations Member
-180 Degrees Consulting, SRMIST KTR
-+91 9380586797
+Best regards,
+Your Name
